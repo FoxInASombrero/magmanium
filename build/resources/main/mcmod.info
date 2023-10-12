@@ -1,0 +1,16 @@
+[
+{
+  "modid": "magmanium",
+  "name": "Magmanium",
+  "description": "Just a simple Magma Block backport mod. Maybe a bit over complicated...",
+  "version": "1.0.0",
+  "mcversion": "1.4.7",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["szviktor"],
+  "credits": "The Forge and FML guys, for making this possible,\nby creating the FML and the Minecraft Forge.\nVoldeloom.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
